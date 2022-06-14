@@ -3,7 +3,8 @@
     Bu Programdaki eksikler tek tek belirlenecek
     Hızla İlgili Ayarlar
     denemeler yapılacak
-
+    Ses Ayarlagrı İçin Dosyalar Hazırlanıyor
+dfgkdfjgşosdklfjgsdşfgjk
         -
 '''
 
