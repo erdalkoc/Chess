@@ -1,5 +1,7 @@
 '''
     *Eksikler:
+    Bu Programdaki eksikler tek tek belirlenecek
+    Daha çok Türkçeleştirme sağlanıccak
         -
 '''
 
