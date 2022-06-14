@@ -1,7 +1,8 @@
 '''
     *Eksikler:
     Bu Programdaki eksikler tek tek belirlenecek
-    Hızla İlgili Ayarlar Yapılıyor
+    Hızla İlgili Ayarlar
+    denemeler yapılacak
 
         -
 '''
