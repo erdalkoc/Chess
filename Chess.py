@@ -23,6 +23,7 @@ FPS         = 30
 
 
 # pygame başlıyor
+# Farklı wxzDegerler
 pg.init()
 screen  = pg.display.set_mode((SCREEN_X,SCREEN_Y))
 caption = pg.display.set_caption(NAME)
